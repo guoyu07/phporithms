@@ -1,0 +1,22 @@
+{
+  "name": "snsanich/phporithms",
+  "description": "Remind all basic structures and algorithms",
+  "type": "library",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Alexander Golovnya",
+      "email": "snsanich@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Phporithms\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^6.0"
+  }
+}
